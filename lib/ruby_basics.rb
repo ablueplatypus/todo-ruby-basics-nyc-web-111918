@@ -15,12 +15,12 @@ def greeting(name, string)
   name = "Matt"
 end
 
-def return_a_value()
-
+def return_a_value(string)
+  return string
 end
 
 def last_evaluated_value
-
+  
 end
 
 def pizza_party
