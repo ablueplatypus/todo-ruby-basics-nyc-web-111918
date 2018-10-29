@@ -2,8 +2,8 @@ def division(num1, num2)
  num1/num2
 end
 
-def assign_variable(value)
-  value ="Matt"
+def assign_variable(name)
+  name ="Matt"
 end
 
 def argue(phrase)
@@ -21,7 +21,7 @@ end
 
 def last_evaluated_value(phrase)
   phrase = "expert"
-  phrase
+  return phrase
 end
 
 def pizza_party(topping = "cheese")
