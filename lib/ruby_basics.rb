@@ -19,7 +19,8 @@ def return_a_value(string)
   return string
 end
 
-def last_evaluated_value
+def last_evaluated_value(phrase)
+  phrase = "expert"
   
 end
 
